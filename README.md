@@ -1,2 +1,2 @@
 # colorFlipper
-https://kaushikgoud5.github.io/colorFlipper/
+https://kaushikgoud5.github.io/colorFlipper/simple.html
